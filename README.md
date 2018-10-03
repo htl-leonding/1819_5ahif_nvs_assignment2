@@ -4,7 +4,11 @@
 
 Es gibt Websites mit WebCams zB: <https://dachstein-salzkammergut.com/de/aktuelles/live-vom-berg/webcam/>
 
-Möchte man sich die Videos einzeln ansehen, so kann man den Ursprungsstream sich komfortabel aus dem HTML-Code holen, zB für den Krippenstein <https://streamsrv54.feratel.co.at/streams/1/05132_5bb48207-dcc2Vid.mp4?dcsdesign=feratel4>
+Möchte man sich die Videos einzeln ansehen, so kann man den Ursprungsstream sich komfortabel aus dem HTML-Code holen, zB für den Krippenstein <https://webtv.feratel.com/webtv/?cam=5132&design=v3&c0=0&c2=1&lg=en&s=0>
+
+Im Video-Element mit der id "fer_video" findet man nun eine (aktuelle) mp4-Datei zB 
+
+<https://streamsrv54.feratel.co.at/streams/1/05132_5bb48207-dcc2Vid.mp4?dcsdesign=feratel4>
 
 ## Aufgabenstellung
 
